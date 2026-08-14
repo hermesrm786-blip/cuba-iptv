@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Cubavision Internacional",Cubavision Internacional
+https://tv.picta.cu/cvi/cvi_0.m3u8
+#EXTINF:-1 tvg-name="Multivision",Multivision
+https://tv.picta.cu/multivision/multivision_1.m3u8
+#EXTINF:-1 tvg-name="TeleRebelde",TeleRebelde
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:-1 tvg-name="Canal Habana",Canal Habana
+https://tv.picta.cu/infantil/infantil_0.m3u8
+#EXTINF:-1 tvg-name="Canal Educativo",Canal Educativo
+https://tv.picta.cu/educativo/educativo_0.m3u8
+#EXTINF:-1 tvg-name="Telesur",Telesur
+https://tv.picta.cu/educativo2/educativo2_0.m3u8
+#EXTINF:-1 tvg-name="Canal Clave",Canal Clave
+https://tv.picta.cu/clave/clave_0.m3u8
+#EXTINF:-1 tvg-name="Cubavision",Cubavision
+https://tv.picta.cu/cubavision/cubavision_0.m3u8
