@@ -1,35 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cubavision.cu@SD" group-title="Cuba",Cubavision
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Cubavision.cu@SD" group-title="Cuba",Cubavision (Picta)
-https://tv.picta.cu/cubavision/cubavision_0.m3u8
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD" group-title="Miami",TV Marti
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" group-title="Cuba",Prensa Latina TV
+https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" group-title="Cuba",Cubavision Internacional
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://teveo.cu/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" group-title="Cuba",Cubavision Internacional (Picta)
-https://tv.picta.cu/cvi/cvi_0.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" group-title="Cuba",Cubavision Internacional (alt)
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8|Referer=https://teveo.cu/&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-id="CanalCaribe.cu@SD" group-title="Cuba",Canal Caribe
 #EXTVLCOPT:http-referrer=https://teveo.cu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://teveo.cu/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cuba",Tele Rebelde
-https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
-#EXTINF:-1 group-title="Cuba",Multivision
-https://tv.picta.cu/multivision/multivision_1.m3u8
-#EXTINF:-1 group-title="Cuba",Canal Educativo
-https://tv.picta.cu/educativo/educativo_0.m3u8
-#EXTINF:-1 group-title="Cuba",Canal Educativo 2
-https://tv.picta.cu/educativo2/educativo2_0.m3u8
-#EXTINF:-1 group-title="Cuba",Canal Clave
-https://tv.picta.cu/clave/clave_0.m3u8
-#EXTINF:-1 group-title="Cuba",Infantil
-https://tv.picta.cu/infantil/infantil_0.m3u8
-#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" group-title="Cuba",Prensa Latina TV
-https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD" group-title="Miami",TV Marti
-https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
-#EXTINF:-1 radio="true" group-title="Radio",Ritmo 95.7 (WRMA Miami)
-https://radio.garden/api/ara/content/listen/JHDQHHsH/channel.mp3
+#EXTINF:-1 tvg-id="CanalCaribe.cu@SD" group-title="Cuba",Canal Caribe (alt)
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8|Referer=https://teveo.cu/&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" group-title="Cuba",Cubavision
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://teveo.cu/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" group-title="Cuba",Cubavision (alt)
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8|Referer=https://teveo.cu/&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36
