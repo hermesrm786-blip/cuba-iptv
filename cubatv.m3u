@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD" group-title="Miami",TV Marti
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="WSCVDT.us@SD" group-title="Miami",Telemundo 51 Noticias en Vivo
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
+#EXTINF:-1 tvg-id="NoticiasTelemundoAhora.us@SD" group-title="Miami",Noticias Telemundo Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" group-title="Miami",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" group-title="Cuba",Prensa Latina TV
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" group-title="Cuba",Cubavision Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp%3AgppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCaribe.cu@SD" group-title="Cuba",Canal Caribe
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp%3ACKZ3s6Wuv4gDjndG.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" group-title="Cuba",Cubavision
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp%3A9KJTMRBAm2BbnsYK.stream/playlist.m3u8
